@@ -44,4 +44,3 @@ python3 'Juke box.py'
 #### To Do
 - [ ] Create `requirements.txt`
 - [ ] Look for hard to identify bugs
-# Vending-meshine-simulator
