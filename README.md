@@ -1,6 +1,6 @@
-# Vending Machine Simulator
+# Juke box simulator
 
-This Python project simulates a simple vending machine to demonstrate state machines. It offers both a text-based version that operates in the terminal and a graphical user interface (GUI) version built using tkinter.
+This Python project simulates a simple Jukebox music player. It offers a graphical user interface (GUI) version built using tkinter.
 
 ## Table of Contents
 - [Features](#features)
@@ -11,9 +11,7 @@ This Python project simulates a simple vending machine to demonstrate state mach
 
 ## Features
 
-- **Text Version**: Simulates the vending machine using the terminal.
-- **GUI Version**: Provides a user-friendly interface for interacting with the vending machine.
-- **State Machine**: Demonstrates state machine principles for managing vending machine operations.
+- **GUI Version**: Provides a user-friendly interface for interacting with the Jukebox music player.
 
 ## Getting Started
 
@@ -27,27 +25,23 @@ Before you can run this project, you need to have the following installed:
 ### Installation
 1. Clone the repository to your local machine:
 ```bash
-git clone https://github.com/your-username/vending-machine-simulator.git
+git clone https://github.com/Leoburgur/Juke-Box-Sumulator.git
 ```
 
 2. Navigate to the project directory:
 ```python
-cd vending-machine-simulator
+cd Juke-box
 ```
-
+remeber to replace any path in the .py files with your own path, THEY ARE EXACT PATHS, IF THEY ARE NOT CHNAGED THE CODE WILL REFUSE TO RUN!
 ### Usage
-
-To run the text-based version, use the following command:
-```python
-python text_vending_machine.py
-```
 
 To run the GUI version, use the following command:
 ```python
-python gui_vending_machine.py
+python3 'Juke box.py'
 ```
 
 
 #### To Do
 - [ ] Create `requirements.txt`
+- [ ] Look for hard to identify bugs
 # Vending-meshine-simulator
