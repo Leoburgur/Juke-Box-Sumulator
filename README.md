@@ -32,15 +32,15 @@ git clone https://github.com/Leoburgur/Juke-Box-Sumulator.git
 ```python
 cd Juke-box
 ```
-remeber to replace any path in the .py files with your own path, THEY ARE EXACT PATHS, IF THEY ARE NOT CHNAGED THE CODE WILL REFUSE TO RUN!
+remeber to replace any path in the .py files with your own path, **THEY ARE EXACT PATHS, IF THEY ARE NOT CHNAGED THE CODE WILL REFUSE TO RUN!**
 ### Usage
 
-To run the GUI version, use the following command:
+To run the software, use the following command:
 ```python
 python3 'Juke box.py'
 ```
 
 
 #### To Do
-- [ ] Create `requirements.txt`
-- [ ] Look for hard to identify bugs
+- [x] Create `requirements.txt`
+- [x] Look for hard to identify bugs
